@@ -70,3 +70,20 @@ This Specialization is devided in four main parts:
 
 
 ## Results and Conclusion
+* 1. Object Detection task using MNIST digits dataset 
+![image1](https://user-images.githubusercontent.com/75788150/173193074-bbf05133-c7d3-418b-b714-329baffb4cf4.jpg)
+
+* 2. Object detection using RetinaNet
+
+
+
+* 3. Object detection using Mask RCNN
+
+
+* 4. Image segmentation on MNIST digits dataset
+
+* 5. Image segmentation on pets dataset
+
+* 6. Scene segmentation
+
+
