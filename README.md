@@ -90,6 +90,7 @@ This Specialization is devided in four main parts:
 
 * 5. Image segmentation on pets dataset
 
+![image5](https://user-images.githubusercontent.com/75788150/173193322-3503f63a-9955-4dad-9b16-07ceb50f8049.jpg)
 
 
 * 6. Scene segmentation
