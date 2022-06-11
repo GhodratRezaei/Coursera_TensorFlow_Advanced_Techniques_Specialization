@@ -23,17 +23,20 @@ This Specialization is devided in four main parts:
   * Build custom classes instead of many Functional or Sequential APIs
   * Build models that can be inherited from the TensorFlow Model class, and build a residual network (ResNet) through defining a custom model class
   * Build Custom Callbacks using Class and also manually implement following callbacks : Tensorboard Callbacks, Early Stopping, Model Checkpoint, CSV Logger 
+  
 * [Custom and Distributed Training with TensorFlow](https://www.coursera.org/learn/custom-distributed-training-with-tensorflow?specialization=tensorflow-advanced-techniques)
   * Eager and Grapgh Mode in TensorFlow
   * Build Custom training Loops using Gradient Tape for more visibility and flexibility
   * Training using Distributed Training Methods and Training using multiple GPU or TPU cores 
+  
 * [Advanced Computer Vision with TensorFlow](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow?specialization=tensorflow-advanced-techniques)
   * Building Object Detection Networks (Classification and Localization(Regression)) including: R_CNN, Faster_RCNN, YOlO, SSD
   * Building Segmentation Networks (Semantic Segmentation and Instance Segmentation) incuding:
   Fully CNN, U-Net, DeepLab
   * Using Transfer Learning and Fine Tunning for Making Network incase of Data Scarcity and Time-consumption of training. 
   * Implemented image segmentation using variations of the fully convolutional network (FCN) including U-Net and Mask-RCNN to identify and detect numbers, pets, zombies
-  * Building Saliency Maps and Class activation Maps(CAM and gradCAM) to identify which parts of the image are used by the classification model to take a decision.    
+  * Building Saliency Maps and Class activation Maps(CAM and gradCAM) to identify which parts of the image are used by the classification model to take a decision.  
+    
 * [Generative Deep Learning with TensorFlow](https://www.coursera.org/learn/generative-deep-learning-with-tensorflow?specialization=tensorflow-advanced-techniques)
   * Build  a Generative Model(Neural Style Transfer and Fast Neural Style Transfer) to make a new image using Style and Content Image. 
   * Build simple and Stacked AutoEncoders on the familiar MNIST dataset, and more complex deep and convolutional architectures on the Fashion MNIST dataset to get the Latent representation of the image.
