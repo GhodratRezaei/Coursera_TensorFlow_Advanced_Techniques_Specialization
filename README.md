@@ -95,4 +95,7 @@ This Specialization is devided in four main parts:
 
 * 6. Scene segmentation
 
+![image6](https://user-images.githubusercontent.com/75788150/173193355-097ee340-2446-4bd9-ac47-5fb07cbe0c51.jpg)
 
+
+* 7. Saliency Map
