@@ -6,8 +6,12 @@ Organized by: [DeepLearning.AI](https://www.deeplearning.ai/), [Coursera](https:
 
 # Table of Contents
 
-1. [df](#my-first-title)
-2. [dfdf](#my-second-title)
-## My first title
+1. [Introduction and Instructions](#my-first-title)
+2. [Overview of Learning from the Specialization](#my-second-title)
+3. [Results and Conclusion](#my-third-title)
+## Introduction and Instructions
 Some text.
-## My second title
+## Overview of Learning from the Specialization
+
+
+## Results and Conclusion
