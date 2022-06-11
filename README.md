@@ -99,3 +99,6 @@ This Specialization is devided in four main parts:
 
 
 * 7. Saliency Map
+
+![image7](https://user-images.githubusercontent.com/75788150/173193392-68f56b55-2547-4049-b1c0-99fc2fcacaae.jpg)
+
