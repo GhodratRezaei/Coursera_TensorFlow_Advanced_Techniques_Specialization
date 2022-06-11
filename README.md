@@ -17,8 +17,8 @@ Clone this repisitory to use it.
 ## Overview of Learning from the Specialization
 This Specialization is devided in four main parts:
 * [Custom Models, Layers, and Loss Functions with TensorFlow](https://www.coursera.org/learn/custom-models-layers-loss-functions-with-tensorflow?specialization=tensorflow-advanced-techniques)
- ** Sub dfdf
- ** Sub dfdfdfdf
+ * Sub dfdf
+ * Sub dfdfdfdf
  
 * [Custom and Distributed Training with TensorFlow](https://www.coursera.org/learn/custom-distributed-training-with-tensorflow?specialization=tensorflow-advanced-techniques)
 
