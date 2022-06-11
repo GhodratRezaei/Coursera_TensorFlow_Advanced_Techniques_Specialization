@@ -45,14 +45,27 @@ This Specialization is devided in four main parts:
 
 ## Labs and Projects
 * [Course 1: Custom Models, Layers, and Loss Functions with TensorFlow]()
-   * ddds
-   *
+   * [Week 1: Multiple Output Models using the Keras Functional API]()
+   * [Week 2: Creating a Custom Loss Function]()
+   * [Week 3: Implement a Quadratic Layer]()
+   * [Week 4: Create a VGG network]()
+   * [Week 5: Introduction to Keras callbacks]()
 
 * [Course 2: Custom and Distributed Training with TensorFlow]()
-
+   * [Week 1: Basic Tensor operations and GradientTape]()
+   * [Week 2: Breast Cancer Prediction]()
+   * [Week 3: Horse or Human? In-graph training loop]()
+   * [Week 4: Custom training with tf.distribute.Strategy]()
 * [Course 3: Advanced Computer Vision with TensorFlow]()
-
+   * [Week 1: Predicting Bounding Boxes]()
+   * [Week 2: Zombie Detection]()
+   * [Week 3: Image Segmentation of Handwritten Digits]()
+   * [Week 4: Saliency Maps]()
 * [Course 4: Generative Deep Learning with TensorFlow]()
+   * [Week 1: Neural Style Transfer]()
+   * [Week 2: CIFAR-10 Autoencoder]()
+   * [Week 3: Variational Autoencoders on Anime Faces]()
+   * [Week 4: GANs with Hands]()
 
 
 
