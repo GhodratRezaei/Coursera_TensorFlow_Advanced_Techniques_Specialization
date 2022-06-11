@@ -86,9 +86,11 @@ This Specialization is devided in four main parts:
 
 * 4. Image segmentation on MNIST digits dataset
 
-
+![image4](https://user-images.githubusercontent.com/75788150/173193305-fc2a3a1e-ad0d-4b00-a0be-81a7d19c67fc.jpg)
 
 * 5. Image segmentation on pets dataset
+
+
 
 * 6. Scene segmentation
 
