@@ -81,9 +81,12 @@ This Specialization is devided in four main parts:
 
 * 3. Object detection using Mask RCNN
 
+![image3](https://user-images.githubusercontent.com/75788150/173193269-9795d199-8ada-4cd7-9356-a5c4813d5f27.jpg)
 
 
 * 4. Image segmentation on MNIST digits dataset
+
+
 
 * 5. Image segmentation on pets dataset
 
