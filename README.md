@@ -8,10 +8,20 @@ Organized by: [DeepLearning.AI](https://www.deeplearning.ai/), [Coursera](https:
 
 1. [Introduction and Instructions](#my-first-title)
 2. [Overview of Learning from the Specialization](#my-second-title)
-3. [Results and Conclusion](#my-third-title)
+3. [Labs and Projects](#my-third-title)
+4. [Results and Conclusion](#my-fourth-title)
 ## Introduction and Instructions
-Some text.
+All the Dataset, refrences, links and materials for Projects in this specialization are taken from the [TensorFlow: Advanced Techniques Specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques)). 
+Clone this repisitory to use it. 
+
 ## Overview of Learning from the Specialization
+
+
+
+
+## Labs and Projects
+
+
 
 
 ## Results and Conclusion
