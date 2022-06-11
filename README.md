@@ -45,8 +45,8 @@ This Specialization is devided in four main parts:
 
 ## Labs and Projects
 * [Course 1: Custom Models, Layers, and Loss Functions with TensorFlow]()
- * ddds
-  *
+   * ddds
+   *
 
 * [Course 2: Custom and Distributed Training with TensorFlow]()
 
